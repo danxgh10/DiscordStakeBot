@@ -1,0 +1,17 @@
+{
+  "name": "discord-stake-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that with a command that lets users stake each other. Features graphical staking using dynamically generated images, or static, less resource-intensive staking",
+  "main": "lib/bot.js",
+  "author": "dan.x.gh10",
+  "license": "GPLV3",
+  "scripts": {
+    "start": "node lib/bot.js"
+  },
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^12.2.0",
+    "rimraf": "^3.0.2",
+    "uuid": "^8.3.1"
+  }
+}
