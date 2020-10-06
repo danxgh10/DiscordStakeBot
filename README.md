@@ -1,6 +1,6 @@
 # DiscordStakeBot
 
-A Discord bot that with a command that lets users stake each other. Features graphical staking using dynamically generated images.
+A Discord bot with a command that lets users stake each other. Features graphical staking using dynamically generated images.
 
 ![Image of Graphical Staking Message](https://i.imgur.com/GVNbukq.png)
 
