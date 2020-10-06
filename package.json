@@ -3,8 +3,18 @@
   "version": "1.0.0",
   "description": "A Discord bot that with a command that lets users stake each other. Features graphical staking using dynamically generated images, or static, less resource-intensive staking",
   "main": "lib/bot.js",
-  "author": "dan.x.gh10",
-  "license": "GPLV3",
+  "author": "Daniel <dan.x.gh10@gmail.com>",
+  "keywords": ["discord", "staking", "bot", "runescape"],
+  "homepage": "https://github.com/danxgh10/DiscordStakeBot#readme",
+  "bugs": {
+    "url": "https://github.com/danxgh10/DiscordStakeBot/issues",
+    "email": "dan.x.gh10@gmail.com"
+  },
+  "license": "GPL-3.0",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/danxgh10/DiscordStakeBot"
+  },
   "scripts": {
     "start": "node lib/bot.js"
   },

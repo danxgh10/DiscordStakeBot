@@ -1,4 +1,5 @@
+# Uncomment this when you add your token
+# auth.json
+
 node_modules
-auth.json
-invite.txt
 temp
